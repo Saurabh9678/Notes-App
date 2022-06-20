@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="go_back_login_page">Go Back To Login Page</string>
+</resources>

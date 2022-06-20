@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056157896265",
+    "project_id": "notesapp-saurabh",
+    "storage_bucket": "notesapp-saurabh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056157896265:android:e5926ea7d94fb7d3edf998",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056157896265-8u49ohva6elob907q7bpig1u6bnb3cqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hr8C4MmeDQUbMRacljPI6lxhAbFJDIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056157896265-8u49ohva6elob907q7bpig1u6bnb3cqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
